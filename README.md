@@ -9,7 +9,7 @@ Yellow Penguin is a simple household financial management system for houses whic
 What's the status?
 -----------------
 
-Still in production.
+Still in development.
 
 Contacts
 --------
