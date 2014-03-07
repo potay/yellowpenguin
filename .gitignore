@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+venv
+*.pyc
+staticfiles
+=======
+*.log
+*.pot
+*.pyc
+local_settings.py
+>>>>>>> 52014b6029a9ed012427eb3f376d7fca00083408

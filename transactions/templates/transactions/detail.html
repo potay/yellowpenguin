@@ -1,0 +1,6 @@
+<h1>{{ transaction.title }}</h1>
+<ul>
+{% for field, value in details.items %}
+    <li>{{ field }}: {{value}}</li>
+{% endfor %}
+</ul>
